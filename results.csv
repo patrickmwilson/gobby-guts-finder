@@ -1,229 +1,90 @@
-Year,Model,Transmission,Engine,Body,VIN,Set Date,City,Link
-2001,Z3,,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBACN53431LL48141,2023-07-11,Stockton,https://www.picknpull.com/check-inventory/vehicle-details/WBACN53431LL48141
-2000,Z3,,2.5L V6 DOHC 24V,Roadster,WBACH9342YLG18200,2023-07-06,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBACH9342YLG18200
-2006,330Cic,,3.0L L6 DOHC 24V,Coupe,WBABD53496PL17586,2023-06-20,Stockton,https://www.picknpull.com/check-inventory/vehicle-details/WBABD53496PL17586
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEV334X4KR29563,2023-07-12,Stockton,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV334X4KR29563
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33493KP79849,2023-07-17,Stockton,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33493KP79849
-2001,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAV33481FU96375,2023-07-18,Stockton,https://www.picknpull.com/check-inventory/vehicle-details/WBAAV33481FU96375
-2000,323i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAN334XYNC90106,2023-06-26,Stockton,https://www.picknpull.com/check-inventory/vehicle-details/WBAAN334XYNC90106
-2000,328Ci,,2.8L L6 DOHC 24V,Coupe,WBABM5347YJN92928,2023-06-19,Stockton,https://www.picknpull.com/check-inventory/vehicle-details/WBABM5347YJN92928
-2006,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33566KR80515,2023-07-17,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33566KR80515
-2006,325i,6-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB17546NK39941,2023-07-12,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB17546NK39941
-2006,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33586KR73811,2023-05-31,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33586KR73811
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13596K000067,2023-05-22,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13596K000067
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13566KR62519,2023-05-12,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13566KR62519
-2002,330xi,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEW53462PG16313,2023-05-31,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAEW53462PG16313
-2002,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37402NG81306,2023-05-09,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37402NG81306
-2002,325xi,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEU33412PF64762,2023-05-05,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAEU33412PF64762
-2001,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAV33431FU86627,2023-07-03,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAAV33431FU86627
-2001,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAAV53431FJ68549,2023-06-14,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAAV53431FJ68549
-2000,323i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAM3346YCA91469,2023-05-15,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM3346YCA91469
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13556PS66687,2023-07-17,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13556PS66687
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13546KX47155,2023-06-19,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13546KX47155
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13556KR62169,2023-06-19,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13556KR62169
-2006,330Cic,,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABW53416PZ40016,2023-02-10,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBABW53416PZ40016
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37404NJ43379,2023-07-04,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37404NJ43379
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33493PH30799,2023-06-24,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33493PH30799
-2003,330Ci,,3.0L L6 DOHC 24V,Coupe,WBABN53423JU29626,2023-06-23,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBABN53423JU29626
-2002,325xi,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEU33452PF67244,2023-07-11,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBAEU33452PF67244
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13556PT08078,2023-07-11,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13556PT08078
-2006,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB335X6AZ85819,2023-07-03,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB335X6AZ85819
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33464KP88784,2023-06-28,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33464KP88784
-2004,325xi,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEU334X4PR10288,2023-06-28,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBAEU334X4PR10288
-2002,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEV33442KL69892,2023-07-17,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV33442KL69892
-2001,325Ci,,2.5L L6 DOHC 24V,Convertible/Cabriolet,WBABS33441JY57983,2023-06-28,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBABS33441JY57983
-2005,330Cic,,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABW53405PJ96956,2023-07-10,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBABW53405PJ96956
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33404KP87601,2023-07-17,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33404KP87601
-2003,325Ci,,2.5L L6 DOHC 24V,Coupe,WBABN73413PJ16186,2023-06-07,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBABN73413PJ16186
-2002,330Ci,,3.0L L6 DOHC 24V,Coupe,WBABN53412PH00335,2023-06-22,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBABN53412PH00335
-2002,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37432NG76388,2023-02-02,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37432NG76388
-2006,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33536KS36953,2023-07-14,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33536KS36953
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13596PT03465,2023-06-02,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13596PT03465
-2005,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33475KW76366,2023-06-30,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33475KW76366
-2005,330Cic,,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABW53425PL51037,2023-04-11,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBABW53425PL51037
-2004,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEV53434KM06025,2023-06-23,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV53434KM06025
-2003,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEW534X3PG22780,2023-05-31,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBAEW534X3PG22780
-2006,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33506KZ34559,2023-05-20,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33506KZ34559
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13566PT26931,2023-04-29,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13566PT26931
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13546PT26510,2023-05-08,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13546PT26510
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13596K000148,2023-07-05,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13596K000148
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13586PT02579,2023-04-18,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13586PT02579
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13546PS65126,2023-06-27,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13546PS65126
-2006,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33566PS12522,2023-06-08,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33566PS12522
-2005,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEV33425KW19571,2023-05-15,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV33425KW19571
-2005,325Ci,,2.5L L6 DOHC 24V,Coupe,WBABV13445JT23237,2023-05-26,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBABV13445JT23237
-2005,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37415NJ86520,2023-05-25,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37415NJ86520
-2004,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEV53464KM37477,2023-04-15,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV53464KM37477
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33414KP84867,2023-05-23,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33414KP84867
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ334X3PH33176,2023-05-16,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ334X3PH33176
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37403NJ30064,2023-07-03,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37403NJ30064
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37403NJ30081,2023-05-11,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37403NJ30081
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEV33443KL85205,2023-04-21,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV33443KL85205
-2002,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37422NG84398,2023-05-17,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37422NG84398
-2002,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEV33492KL68012,2023-05-09,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV33492KL68012
-2002,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEV33432PD55990,2023-05-09,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV33432PD55990
-2001,330Ci,,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABS534X1EV86593,2023-06-28,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBABS534X1EV86593
-2001,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAV334X1FU76578,2023-07-13,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAAV334X1FU76578
-2000,328i,,2.8L L6 DOHC 24V,Sedan/Saloon,WBAAM5333YJR56541,2023-07-05,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM5333YJR56541
-2000,323i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAM3345YKC67871,2023-07-11,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM3345YKC67871
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13556PT12941,2023-06-22,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13556PT12941
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13526KX41919,2023-06-06,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13526KX41919
-2005,330xi,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEW53425PG12263,2023-07-11,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBAEW53425PG12263
-2005,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEV334X5KW20791,2023-05-04,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV334X5KW20791
-2004,325xi,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEU33424PR12634,2023-06-30,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBAEU33424PR12634
-2000,328i,,2.8L L6 DOHC 24V,Sedan/Saloon,WBAAM5330YJR56383,2023-06-02,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM5330YJR56383
-2006,330xi,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVD33516KL51108,2023-07-10,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBAVD33516KL51108
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13516KR56627,2023-07-06,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13516KR56627
-2006,325Ci,,2.5L L6 DOHC 24V,Coupe,WBABD33436PA95019,2023-03-15,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBABD33436PA95019
-2004,325Ci,,2.5L L6 DOHC 24V,Coupe,WBABV13464JT20208,2023-03-17,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBABV13464JT20208
-2005,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33455KP92536,2023-07-06,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33455KP92536
-2005,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ334X5KW75888,2023-07-03,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ334X5KW75888
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEV33493KL80274,2023-07-07,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV33493KL80274
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET374X3NJ35353,2023-07-05,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBAET374X3NJ35353
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37423NJ25268,2023-06-23,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37423NJ25268
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33453PH34090,2023-06-22,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33453PH34090
-2004,325xi,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAEU33444PF61471,2023-06-29,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBAEU33444PF61471
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37484NJ83211,2023-06-12,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37484NJ83211
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33494KP87192,2023-05-23,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33494KP87192
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37463NJ28044,2023-06-22,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37463NJ28044
-2003,330Ci,,3.0L L6 DOHC 24V,Coupe,WBABN53463PH04009,2023-06-12,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBABN53463PH04009
-2002,325Ci,,2.5L L6 DOHC 24V,Coupe,WBABN33492JW52507,2023-07-06,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBABN33492JW52507
-2000,323i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAM334XYCA92205,2023-06-23,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM334XYCA92205
-2000,323i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAM3347YFP82215,2023-06-22,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM3347YFP82215
-2000,325Ci,,2.5L L6 DOHC 24V,Convertible/Cabriolet,WBABR3340YEG01485,2023-06-05,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBABR3340YEG01485
-2006,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33536AZ85547,2022-12-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33536AZ85547
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB135X6KX44681,2023-05-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB135X6KX44681
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB135X6KX35253,2023-03-21,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB135X6KX35253
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13576KX68632,2022-12-09,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13576KX68632
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB135X6PT10425,2022-12-20,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB135X6PT10425
-2006,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33506KS37994,2022-12-30,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33506KS37994
-2004,330Ci,,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABW53474PL40288,2023-06-14,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBABW53474PL40288
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37494NJ45342,2022-12-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37494NJ45342
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33404KP86111,2023-04-19,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33404KP86111
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET374X4NJ81539,2023-03-21,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAET374X4NJ81539
-2004,325Ci,,2.5L L6 DOHC 24V,Convertible/Cabriolet,WBABW33464PL24300,2022-12-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBABW33464PL24300
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37404NH05767,2023-01-19,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37404NH05767
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33474KP82993,2022-12-20,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33474KP82993
-2003,325Ci,,2.5L L6 DOHC 24V,Coupe,WBABN33483PG62365,2023-05-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBABN33483PG62365
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37453NJ40542,2022-12-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37453NJ40542
-2001,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAN37491ND47637,2022-12-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAAN37491ND47637
-2001,325Ci,,2.5L L6 DOHC 24V,Convertible/Cabriolet,WBABS33461JY57614,2023-02-24,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBABS33461JY57614
-2001,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAN37471ND46180,2023-03-13,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAAN37471ND46180
-2001,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAV33421FU76879,2023-04-06,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAAV33421FU76879
-2001,330Ci,,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABS53431JU84981,2023-06-08,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBABS53431JU84981
-2001,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAV33421FU76056,2023-01-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAAV33421FU76056
-2000,323i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAM3342YCD57957,2023-01-09,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM3342YCD57957
-2000,323i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAM3341YFP75650,2023-04-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM3341YFP75650
-2000,323i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAM3340YFP79396,2023-07-06,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM3340YFP79396
-2006,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33516KS38264,2023-05-31,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33516KS38264
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB135X6K001101,2023-02-28,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB135X6K001101
-2005,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37425NJ86932,2023-06-21,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37425NJ86932
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37404NJ83218,2023-06-27,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37404NJ83218
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33414KP84206,2023-06-27,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33414KP84206
-2003,330xi,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEV53443KM29683,2023-06-02,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV53443KM29683
-2002,330Ci,,3.0L L6 DOHC 24V,Coupe,WBABN53462JU39493,2023-06-06,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBABN53462JU39493
-2001,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAAV53461JS96118,2023-06-28,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAAV53461JS96118
-2000,323i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAM3346YKC70570,2023-06-07,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM3346YKC70570
-2004,330i,,3.0L L6 DOHC 24V,Coupe,WBABD53444PD97055,2023-06-17,Salinas,https://www.picknpull.com/check-inventory/vehicle-details/WBABD53444PD97055
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAET37483NJ27283,2023-06-03,Salinas,https://www.picknpull.com/check-inventory/vehicle-details/WBAET37483NJ27283
-2001,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAN37421ND46507,2023-06-14,Salinas,https://www.picknpull.com/check-inventory/vehicle-details/WBAAN37421ND46507
-2000,323i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAM3347YFP81260,2023-06-14,Salinas,https://www.picknpull.com/check-inventory/vehicle-details/WBAAM3347YFP81260
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13586KX45800,2023-05-26,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13586KX45800
-2006,325i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13586KX66436,2023-05-26,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13586KX66436
-2005,330i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEV53425KM38708,2023-05-19,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV53425KM38708
-2004,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33414KP89194,2023-06-17,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33414KP89194
-2003,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAZ33473PH31238,2023-06-08,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBAAZ33473PH31238
-2001,325i,,2.5L L6 DOHC 24V,Sedan/Saloon,WBAAV33431FU80293,2023-04-24,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBAAV33431FU80293
-2003,325iT,,2.5L L6 DOHC 24V,Wagon,WBAAX13493PJ00286,2023-05-03,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAAX13493PJ00286
-2002,325i,,2.5L L6 DOHC 24V,Wagon,WBAEP33442PF01274,2023-06-09,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAEP33442PF01274
-2003,325iT,,2.5L L6 DOHC 24V,Wagon,WBAEN33483PC12180,2023-05-25,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBAEN33483PC12180
-2000,,,2.5L L6 DOHC 24V,,WBAAR334XYJM01231,2023-04-08,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAAR334XYJM01231
-2000,,,2.5L L6 DOHC 24V,,WBAAR3340YJM00363,2023-03-21,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAAR3340YJM00363
-2004,525i,,2.5L L6 SOHC 12V,Sedan/Saloon,WBANA535X4B167013,2023-05-23,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBANA535X4B167013
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63453CK38078,2023-06-13,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63453CK38078
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM6345YGU13832,2023-07-18,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBADM6345YGU13832
-2004,530i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73524B812152,2023-07-14,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73524B812152
-2004,530i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73544B063709,2023-07-07,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73544B063709
-2002,525i,5-Speed Automatic,2.5L L6 SOHC 12V,Sedan/Saloon,WBADT43462GY40984,2023-05-19,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBADT43462GY40984
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM6344YGV03764,2023-06-27,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBADM6344YGV03764
-2004,545i,6-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBANB33514B088511,2023-07-13,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBANB33514B088511
-2004,525i,,2.5L L6 SOHC 12V,Sedan/Saloon,WBANA53534B176913,2023-07-03,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBANA53534B176913
-2004,530i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73524B059156,2023-05-30,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73524B059156
-2004,530i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73504B061746,2023-07-11,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73504B061746
-2003,525iA,5-Speed Automatic,2.5L L6 SOHC 12V,Sedan/Saloon,WBADT43493G032341,2023-07-03,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBADT43493G032341
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM6340YGU25998,2023-07-07,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBADM6340YGU25998
-2004,545i,6-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBANB335X4B088149,2023-07-10,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBANB335X4B088149
-2004,525i,,2.5L L6 SOHC 12V,Sedan/Saloon,WBANA53514B848712,2023-07-07,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBANA53514B848712
-2004,545i,6-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBANB33524B108622,2023-06-21,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBANB33524B108622
-2001,530i,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63491CF08753,2023-06-30,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63491CF08753
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM6341YGU17134,2023-06-23,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBADM6341YGU17134
-2001,530i,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63421CF13731,2023-07-09,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63421CF13731
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM6346YGU05822,2023-06-01,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBADM6346YGU05822
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63423CK29581,2023-07-07,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63423CK29581
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63453CK44625,2023-06-06,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63453CK44625
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM6348YGU25974,2023-05-31,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBADM6348YGU25974
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63493CK35054,2023-07-07,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63493CK35054
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63483CK37734,2023-04-29,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63483CK37734
-2001,530i,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63411CF10397,2023-06-24,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63411CF10397
-2000,528i,5-Speed Manual,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM5348YBY19594,2023-06-06,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADM5348YBY19594
-2000,540i,5-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBADN6346YGM64866,2023-05-11,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADN6346YGM64866
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63443CK43952,2023-04-20,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63443CK43952
-2001,530i,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63421CF02728,2023-06-20,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63421CF02728
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM634XYGU29573,2023-07-03,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBADM634XYGU29573
-2002,540i,5-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBADN63442GN85029,2023-06-28,Stockton,https://www.picknpull.com/check-inventory/vehicle-details/WBADN63442GN85029
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM6348YGU29412,2023-06-17,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBADM6348YGU29412
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM6340YGU24124,2023-06-17,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBADM6340YGU24124
-2004,525i,,2.5L L6 SOHC 12V,Sedan/Saloon,WBANA535X4B175676,2023-06-14,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBANA535X4B175676
-2004,525i,,2.5L L6 SOHC 12V,Sedan/Saloon,WBANA53534B849635,2023-05-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBANA53534B849635
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63403CK35878,2023-01-03,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63403CK35878
-2003,525iA,5-Speed Automatic,2.5L L6 SOHC 12V,Sedan/Saloon,WBADT43463G035231,2022-12-20,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT43463G035231
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63443CK38024,2022-12-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63443CK38024
-2002,525i,5-Speed Automatic,2.5L L6 SOHC 12V,Sedan/Saloon,WBADT43452GZ99110,2023-04-21,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT43452GZ99110
-2002,540i,5-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBADN63432GM74326,2023-03-09,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADN63432GM74326
-2002,540i,5-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBADN63462GM74076,2023-03-09,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADN63462GM74076
-2001,530i,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63431CF11762,2023-06-14,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63431CF11762
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM6348YGU21049,2023-05-18,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADM6348YGU21049
-2000,528i,5-Speed Automatic,2.8L L6 DOHC 24V,Sedan/Saloon,WBADM6344YGV01156,2023-04-17,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADM6344YGV01156
-2004,545i,6-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBANB335X4B110263,2023-06-07,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBANB335X4B110263
-2002,540i,5-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBADN63412GN87790,2023-06-06,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBADN63412GN87790
-2001,525i,5-Speed Automatic,2.5L L6 SOHC 12V,Sedan/Saloon,WBADT43471GF59200,2023-06-06,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBADT43471GF59200
-2001,530i,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63471CF01980,2023-06-06,Salinas,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63471CF01980
-2004,530i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73524B812152,2023-07-14,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73524B812152
-2004,530i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73544B063709,2023-07-07,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73544B063709
-2004,545i,6-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBANB33514B088511,2023-07-13,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBANB33514B088511
-2004,525i,,2.5L L6 SOHC 12V,Sedan/Saloon,WBANA53534B176913,2023-07-03,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBANA53534B176913
-2004,530i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73524B059156,2023-05-30,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73524B059156
-2004,530i,,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73504B061746,2023-07-11,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73504B061746
-2003,525iA,5-Speed Automatic,2.5L L6 SOHC 12V,Sedan/Saloon,WBADT43493G032341,2023-07-03,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBADT43493G032341
-2004,545i,6-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBANB335X4B088149,2023-07-10,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBANB335X4B088149
-2004,525i,,2.5L L6 SOHC 12V,Sedan/Saloon,WBANA53514B848712,2023-07-07,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBANA53514B848712
-2004,545i,6-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBANB33524B108622,2023-06-21,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBANB33524B108622
-2005,530i,,3.0L L6 DOHC 24V,Wagon,WBANA73535CR57051,2023-07-10,Salinas,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73535CR57051
-2005,530i,,3.0L L6 DOHC 24V,Wagon,WBANA73545CR58497,2023-06-21,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73545CR58497
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63423CK29581,2023-07-07,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63423CK29581
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63453CK44625,2023-06-06,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63453CK44625
-2005,525i,,2.5L L6 SOHC 12V,Wagon,WBANA53535B864024,2023-06-27,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBANA53535B864024
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63493CK35054,2023-07-07,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63493CK35054
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63483CK37734,2023-04-29,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63483CK37734
-2005,545i,,4.4L V8 DOHC 32V,Wagon,WBANB33535B114849,2023-06-21,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBANB33535B114849
-2005,530i,,3.0L L6 DOHC 24V,Wagon,WBANA73505CR58674,2023-04-21,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73505CR58674
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63443CK43952,2023-04-20,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63443CK43952
-2005,530i,,3.0L L6 DOHC 24V,Wagon,WBANA73535CR57578,2023-04-17,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73535CR57578
-2004,525i,,2.5L L6 SOHC 12V,Sedan/Saloon,WBANA535X4B175676,2023-06-14,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBANA535X4B175676
-2004,525i,,2.5L L6 SOHC 12V,Sedan/Saloon,WBANA53534B849635,2023-05-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBANA53534B849635
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63403CK35878,2023-01-03,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63403CK35878
-2003,525iA,5-Speed Automatic,2.5L L6 SOHC 12V,Sedan/Saloon,WBADT43463G035231,2022-12-20,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT43463G035231
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63443CK38024,2022-12-05,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63443CK38024
-2004,525i,,2.5L L6 SOHC 12V,Sedan/Saloon,WBANA535X4B167013,2023-05-23,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBANA535X4B167013
-2003,530iA,5-Speed Automatic,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63453CK38078,2023-06-13,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63453CK38078
-2004,545i,6-Speed Automatic,4.4L V8 DOHC 32V,Sedan/Saloon,WBANB335X4B110263,2023-06-07,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBANB335X4B110263
-2004,X3,,3.0L L6 DOHC 24V,Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV),WBXPA93414WC31755,2023-07-12,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBXPA93414WC31755
-2004,X3,,3.0L L6 DOHC 24V,Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV),WBXPA93454WC34576,2023-07-07,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBXPA93454WC34576
-2004,X3,,2.5L L6 DOHC 24V,Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV),WBXPA73424WC36645,2023-07-10,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBXPA73424WC36645
-2006,X3,,3.0L L6 DOHC 24V,Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV),WBXPA93476WG78268,2023-07-06,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBXPA93476WG78268
-2006,X3,,3.0L L6 DOHC 24V,Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV),WBXPA93446WD27754,2023-07-06,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBXPA93446WD27754
-2005,X3,,3.0L L6 DOHC 24V,Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV),WBXPA93475WD07951,2023-04-05,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBXPA93475WD07951
-2005,X3,,2.5L L6 DOHC 24V,Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV),WBXPA73445WC45297,2023-06-02,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBXPA73445WC45297
-2004,X3,,2.5L L6 DOHC 24V,Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV),WBXPA73434WB27546,2023-06-15,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBXPA73434WB27546
-2004,X3,,3.0L L6 DOHC 24V,Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV),WBXPA93494WA60690,2023-03-13,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBXPA93494WA60690
-2003,Z4,,2.5L L6 DOHC 24V,Convertible/Cabriolet,4USBT33443LS44571,2023-05-18,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/4USBT33443LS44571
+Year,Model,Engine,Body,VIN,Set Date,City,Link
+2001,Z3,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBACN53431LL48141,7/11/2023,Stockton,https://www.picknpull.com/check-inventory/vehicle-details/WBACN53431LL48141
+2006,330Cic,3.0L L6 DOHC 24V,Coupe,WBABD53496PL17586,6/20/2023,Stockton,https://www.picknpull.com/check-inventory/vehicle-details/WBABD53496PL17586
+2006,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33566KR80515,7/17/2023,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33566KR80515
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB17546NK39941,7/12/2023,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB17546NK39941
+2006,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33586KR73811,5/31/2023,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33586KR73811
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13596K000067,5/22/2023,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13596K000067
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13566KR62519,5/12/2023,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13566KR62519
+2002,330xi,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEW53462PG16313,5/31/2023,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAEW53462PG16313
+2001,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAAV53431FJ68549,6/14/2023,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBAAV53431FJ68549
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13556PS66687,7/17/2023,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13556PS66687
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13546KX47155,6/19/2023,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13546KX47155
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13556KR62169,6/19/2023,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13556KR62169
+2006,330Cic,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABW53416PZ40016,2/10/2023,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBABW53416PZ40016
+2003,330Ci,3.0L L6 DOHC 24V,Coupe,WBABN53423JU29626,6/23/2023,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBABN53423JU29626
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13556PT08078,7/11/2023,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13556PT08078
+2006,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB335X6AZ85819,7/3/2023,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB335X6AZ85819
+2005,330Cic,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABW53405PJ96956,7/10/2023,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBABW53405PJ96956
+2002,330Ci,3.0L L6 DOHC 24V,Coupe,WBABN53412PH00335,6/22/2023,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBABN53412PH00335
+2006,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33536KS36953,7/14/2023,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33536KS36953
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13596PT03465,6/2/2023,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13596PT03465
+2005,330Cic,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABW53425PL51037,4/11/2023,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBABW53425PL51037
+2004,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEV53434KM06025,6/23/2023,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV53434KM06025
+2003,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEW534X3PG22780,5/31/2023,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBAEW534X3PG22780
+2006,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33506KZ34559,5/20/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33506KZ34559
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13566PT26931,4/29/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13566PT26931
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13546PT26510,5/8/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13546PT26510
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13596K000148,7/5/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13596K000148
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13586PT02579,4/18/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13586PT02579
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13546PS65126,6/27/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13546PS65126
+2006,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33566PS12522,6/8/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33566PS12522
+2004,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEV53464KM37477,4/15/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV53464KM37477
+2001,330Ci,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABS534X1EV86593,6/28/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBABS534X1EV86593
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13556PT12941,6/22/2023,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13556PT12941
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13526KX41919,6/6/2023,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13526KX41919
+2005,330xi,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEW53425PG12263,7/11/2023,Modesto,https://www.picknpull.com/check-inventory/vehicle-details/WBAEW53425PG12263
+2006,330xi,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVD33516KL51108,7/10/2023,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBAVD33516KL51108
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13516KR56627,7/6/2023,Rocklin,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13516KR56627
+2003,330Ci,3.0L L6 DOHC 24V,Coupe,WBABN53463PH04009,6/12/2023,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBABN53463PH04009
+2006,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33536AZ85547,12/5/2022,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33536AZ85547
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB135X6KX44681,5/5/2023,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB135X6KX44681
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB135X6KX35253,3/21/2023,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB135X6KX35253
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13576KX68632,12/9/2022,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13576KX68632
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB135X6PT10425,12/20/2022,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB135X6PT10425
+2006,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33506KS37994,12/30/2022,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33506KS37994
+2004,330Ci,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABW53474PL40288,6/14/2023,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBABW53474PL40288
+2001,330Ci,3.0L L6 DOHC 24V,Convertible/Cabriolet,WBABS53431JU84981,6/8/2023,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBABS53431JU84981
+2006,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB33516KS38264,5/31/2023,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB33516KS38264
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB135X6K001101,2/28/2023,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB135X6K001101
+2003,330xi,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEV53443KM29683,6/2/2023,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV53443KM29683
+2002,330Ci,3.0L L6 DOHC 24V,Coupe,WBABN53462JU39493,6/6/2023,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBABN53462JU39493
+2001,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAAV53461JS96118,6/28/2023,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBAAV53461JS96118
+2004,330i,3.0L L6 DOHC 24V,Coupe,WBABD53444PD97055,6/17/2023,Salinas,https://www.picknpull.com/check-inventory/vehicle-details/WBABD53444PD97055
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13586KX45800,5/26/2023,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13586KX45800
+2006,325i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAVB13586KX66436,5/26/2023,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBAVB13586KX66436
+2005,330i,3.0L L6 DOHC 24V,Sedan/Saloon,WBAEV53425KM38708,5/19/2023,Sacramento,https://www.picknpull.com/check-inventory/vehicle-details/WBAEV53425KM38708
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63453CK38078,6/13/2023,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63453CK38078
+2004,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73524B812152,7/14/2023,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73524B812152
+2004,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73544B063709,7/7/2023,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73544B063709
+2004,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73524B059156,5/30/2023,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73524B059156
+2004,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73504B061746,7/11/2023,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73504B061746
+2001,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63491CF08753,6/30/2023,Oakland,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63491CF08753
+2001,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63421CF13731,7/9/2023,Rancho Cordova,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63421CF13731
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63423CK29581,7/7/2023,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63423CK29581
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63453CK44625,6/6/2023,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63453CK44625
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63493CK35054,7/7/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63493CK35054
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63483CK37734,4/29/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63483CK37734
+2001,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63411CF10397,6/24/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63411CF10397
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63443CK43952,4/20/2023,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63443CK43952
+2001,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63421CF02728,6/20/2023,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63421CF02728
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63403CK35878,1/3/2023,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63403CK35878
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63443CK38024,12/5/2022,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63443CK38024
+2001,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63431CF11762,6/14/2023,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63431CF11762
+2001,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63471CF01980,6/6/2023,Salinas,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63471CF01980
+2004,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73524B812152,7/14/2023,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73524B812152
+2004,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73544B063709,7/7/2023,Fairfield,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73544B063709
+2004,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73524B059156,5/30/2023,American Canyon,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73524B059156
+2004,530i,3.0L L6 DOHC 24V,Sedan/Saloon,WBANA73504B061746,7/11/2023,San Jose,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73504B061746
+2005,530i,3.0L L6 DOHC 24V,Wagon,WBANA73535CR57051,7/10/2023,Salinas,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73535CR57051
+2005,530i,3.0L L6 DOHC 24V,Wagon,WBANA73545CR58497,6/21/2023,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73545CR58497
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63423CK29581,7/7/2023,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63423CK29581
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63453CK44625,6/6/2023,Moss Landing,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63453CK44625
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63493CK35054,7/7/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63493CK35054
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63483CK37734,4/29/2023,Newark,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63483CK37734
+2005,530i,3.0L L6 DOHC 24V,Wagon,WBANA73505CR58674,4/21/2023,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73505CR58674
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63443CK43952,4/20/2023,Richmond,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63443CK43952
+2005,530i,3.0L L6 DOHC 24V,Wagon,WBANA73535CR57578,4/17/2023,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBANA73535CR57578
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63403CK35878,1/3/2023,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63403CK35878
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63443CK38024,12/5/2022,Windsor,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63443CK38024
+2003,530iA,3.0L L6 DOHC 24V,Sedan/Saloon,WBADT63453CK38078,6/13/2023,Antelope,https://www.picknpull.com/check-inventory/vehicle-details/WBADT63453CK38078

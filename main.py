@@ -18,26 +18,27 @@ def makeVinDecoderRequest(vin,year):
      return requests.get(vinDecoderApiURI%(vin,year)).json()
 
 def writeVehicleDataToCsv(pnpData):
-     file_exists = os.path.isfile(resultsFileName)
-     with open(resultsFileName, 'a', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        if file_exists == False:
-            writer.writerow(['Year','Model','Transmission','Engine','Body','VIN','Set Date','City','Link'])
+     file_exists = os.path.isfile(resultsFileName)  
+     writer = csv.writer(resultsFileName) 
+     if file_exists == False:
+          writer.writerow(['Year','Model','Engine','Body','VIN','Set Date','City','Link'])
 
-        vinDecoderData = makeVinDecoderRequest(pnpData['vin'],pnpData['year'])['Results'][0]
-        year = vinDecoderData['ModelYear']
-        model = vinDecoderData['Model']
-        trans = pnpData['transmission']
-        if '|' in trans:
-             trans = ''
-        engine = pnpData['engine']
-        body = vinDecoderData['BodyClass']
-        vin = vinDecoderData['VIN']
-        setDate = (pnpData['dateAdded'])[0:10]
-        city = pnpData['city']
-        link = pickAndPullVehicleLink%vin
-        print(year,model,trans,engine,body,vin,setDate,city,link)
-        writer.writerow([year,model,trans,engine,body,vin,setDate,city,link])
+     vinDecoderData = makeVinDecoderRequest(pnpData['vin'],pnpData['year'])['Results'][0]
+     year = vinDecoderData['ModelYear']
+     model = vinDecoderData['Model']
+     trans = pnpData['transmission']
+     if '|' in trans:
+          trans = ''
+     engine = pnpData['engine']
+     body = vinDecoderData['BodyClass']
+     vin = vinDecoderData['VIN']
+     setDate = (pnpData['dateAdded'])[0:10]
+     city = pnpData['city']
+     link = pickAndPullVehicleLink%vin
+     if('3.0L' in engine and year in '20012002200320042005'):
+          print(year,model,trans,engine,body,vin,setDate,city,link)
+          writer.writerow([year,model,engine,body,vin,setDate,city,link])
+        
 
 def makePickAndPullGetRequestByVin(vin):
      return requests.get(pickAndPullSearchByVinApiURI%(vin)).json()
