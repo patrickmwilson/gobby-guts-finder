@@ -17,9 +17,10 @@ vinDecoderApiURI = "https://vpic.nhtsa.dot.gov/api/vehicles/DecodeVinValuesExten
 def makeVinDecoderRequest(vin,year):
      return requests.get(vinDecoderApiURI%(vin,year)).json()
 
-def writeVehicleDataToCsv(pnpData):
+def writeVehicleDataToCsvOld(pnpData):
      file_exists = os.path.isfile(resultsFileName)  
-     writer = csv.writer(resultsFileName) 
+     #writer = csv.writer(resultsFileName) 
+     writer = csv.writer("results.csv") 
      if file_exists == False:
           writer.writerow(['Year','Model','Engine','Body','VIN','Set Date','City','Link'])
 
@@ -38,6 +39,32 @@ def writeVehicleDataToCsv(pnpData):
      if('3.0L' in engine and year in '20012002200320042005'):
           print(year,model,trans,engine,body,vin,setDate,city,link)
           writer.writerow([year,model,engine,body,vin,setDate,city,link])
+
+def writeVehicleDataToCsv(pnpData):
+     #file_exists = os.path.isfile(resultsFileName)  
+     #writer = csv.writer(resultsFileName) 
+     #writer = csv.writer("results.csv") 
+     #if file_exists == False:
+     #     writer.writerow(['Year','Model','Engine','Body','VIN','Set Date','City','Link'])
+
+     vinDecoderData = makeVinDecoderRequest(pnpData['vin'],pnpData['year'])['Results'][0]
+     year = vinDecoderData['ModelYear']
+     model = vinDecoderData['Model']
+     trans = pnpData['transmission']
+     if '|' in trans:
+          trans = ''
+     engine = pnpData['engine']
+     body = vinDecoderData['BodyClass']
+     vin = vinDecoderData['VIN']
+     setDate = (pnpData['dateAdded'])[0:10]
+     city = pnpData['city']
+     link = pickAndPullVehicleLink%vin
+     if('3.0L' in engine and year in '20012002200320042005' and '2023-08' in setDate):
+          print(year,model,trans,engine,body,vin,setDate,city,link)
+          with open(resultsFileName, "w", newline='') as resultsFile:
+               writer = csv.writer(resultsFile)
+               writer.writerow([year,model,engine,body,vin,setDate,city,link])
+
         
 
 def makePickAndPullGetRequestByVin(vin):
